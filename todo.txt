@@ -1,0 +1,5 @@
+	- add logs for messages directed to me
+- add statistics of players making choices ( score )
+- choice to spam votes / unique for user
+	- add noclick boxes
+	- add support for child windows ( popups )
